@@ -1,6 +1,6 @@
 {
   "name": "threading",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A clojure-inspired utility for threading arbitrary data into the first or last argument of a sequence of functions",
   "main": "index.js",
   "scripts": {
